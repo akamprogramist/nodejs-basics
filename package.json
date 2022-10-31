@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-basics",
+  "version": "1.0.0",
+  "description": "this is the node bascis test",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akamprogramist/nodejs-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akamprogramist/nodejs-basics/issues"
+  },
+  "homepage": "https://github.com/akamprogramist/nodejs-basics#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
